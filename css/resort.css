@@ -20,3 +20,7 @@ p.emphasis{
 p.detail {
   padding-left: 25px;
 }
+
+body {
+  background-color: slategrey;
+}
