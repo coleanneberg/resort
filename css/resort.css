@@ -1,0 +1,22 @@
+h1 {
+  color: coral;
+  font-weight: bold;
+}
+h2 {
+  color: darkgray;
+  font-style: normal;
+  font-weight: lighter;
+}
+p {
+  width: 50%;
+}
+p.emphasis{
+  color: darksalmon;
+  font-size: 20px;
+  font-weight: bold
+  width: 50%;
+  padding-left: 25px;
+}
+p.detail {
+  padding-left: 25px;
+}
